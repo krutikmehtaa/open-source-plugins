@@ -101,7 +101,7 @@ C:\Users\<username>\AppData\Roaming\SketchUp\SketchUp <version>\SketchUp\Plugins
 2. Restart SketchUp.
 3. Right-click any rectangular face and choose **“Create Groove”** from the context menu.
 
-> The tool automatically loads at startup and appears in the right-click context menu for faces.
+> 💡 The tool automatically loads at startup and appears in the right-click context menu for faces.
 
 ---
 
