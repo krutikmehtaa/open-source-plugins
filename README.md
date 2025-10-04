@@ -18,7 +18,7 @@ open-source-plugins/
 
 ---
 
-## 🚀 Overview
+## Overview
 
 ### 🔹 Autodesk 3ds Max — **Groove Ridge Modifier (GR New Tool v21.0)**
 
@@ -60,9 +60,9 @@ open-source-plugins/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
-### 🧙‍♂️ Autodesk 3ds Max
+### Autodesk 3ds Max
 
 **Installation path (typical):**
 
@@ -81,7 +81,7 @@ C:\Users\<username>\AppData\Local\Autodesk\3ds Max\<version>\Plugins\
 
 ---
 
-### 🧙‍♀️ SketchUp Pro
+### SketchUp Pro
 
 **Installation path (Windows):**
 
@@ -105,7 +105,7 @@ C:\Users\<username>\AppData\Roaming\SketchUp\SketchUp <version>\SketchUp\Plugins
 
 ---
 
-## 🧫 Developer Notes
+## Developer Notes
 
 Both tools are open and easily modifiable — ideal for learning, customization, and extending.
 
@@ -125,27 +125,7 @@ Both tools are open and easily modifiable — ideal for learning, customization,
 
 ---
 
-## 🥩 Example Installation Commands (PowerShell)
-
-**3ds Max (example for 2024):**
-
-```powershell
-Copy-Item -Path "C:\Users\kruti\Downloads\open-source-plugins\Autodesk 3ds Max\groove-ridge-modifier.ms" `
-          -Destination "C:\Users\kruti\AppData\Local\Autodesk\3ds Max\2024\Plugins\" -Force
-```
-
-**SketchUp (example for SketchUp 2023):**
-
-```powershell
-Copy-Item -Path "C:\Users\kruti\Downloads\open-source-plugins\SketchUp Pro\groove-tool.rb" `
-          -Destination "$env:APPDATA\SketchUp\SketchUp 2023\SketchUp\Plugins\" -Force
-```
-
-Then restart each application.
-
----
-
-## 👨‍💻 Contributing
+## Contributing
 
 Pull requests are welcome!
 If you extend functionality, fix bugs, or add new pattern generation methods:
@@ -156,14 +136,14 @@ If you extend functionality, fix bugs, or add new pattern generation methods:
 
 ---
 
-## ⚖️ License
+## License
 
 Licensed under the **MIT License** — free for personal, commercial, and educational use.
 See the included `LICENSE` file for details.
 
 ---
 
-## 📞 Credits
+## Credits
 
 Developed and maintained by **Krutik Mehta**.
 Contributions and improvements from the open-source community are always welcome.
