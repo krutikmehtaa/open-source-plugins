@@ -125,17 +125,6 @@ Both tools are open and easily modifiable — ideal for learning, customization,
 
 ---
 
-## Contributing
-
-Pull requests are welcome!
-If you extend functionality, fix bugs, or add new pattern generation methods:
-
-1. Fork the repository.
-2. Add your new feature.
-3. Submit a pull request with a short description and screenshots (if applicable).
-
----
-
 ## License
 
 Licensed under the **MIT License** — free for personal, commercial, and educational use.
@@ -145,5 +134,4 @@ See the included `LICENSE` file for details.
 
 ## Credits
 
-Developed and maintained by **Krutik Mehta**.
-Contributions and improvements from the open-source community are always welcome.
+Developed and maintained by **Krutik Mehta**. Pull requests are welcome!
