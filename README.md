@@ -1,6 +1,6 @@
 ## open-source-plugins
 
-> A cross-platform set of procedural groove-generation tools for **Autodesk 3ds Max** and **SketchUp Pro**, designed to streamline surface detailing and modeling automation for both 3D artists and plugin developers.
+> A cross-platform set of procedural groove-ridge generation tools for **Autodesk 3ds Max** and **SketchUp Pro**, designed to streamline surface detailing and modeling automation for both 3D artists and plugin developers.
 
 ---
 
@@ -20,7 +20,7 @@ open-source-plugins/
 
 ## Overview
 
-### 🔹 Autodesk 3ds Max — **Groove Ridge Modifier (GR New Tool v21.0)**
+### 🔹 Autodesk 3ds Max — **Groove Ridge Utility**
 
 **File:** `Autodesk 3ds Max/groove-ridge-modifier.ms`
 
