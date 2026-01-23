@@ -70,11 +70,7 @@ open-source-plugins/
 
 ## Demo
 
-### Autodesk 3ds Max Demo
-
-![Demo Video](https://github.com/krutikmehtaa/open-source-plugins/raw/main/Autodesk%203ds%20Max/assets/3ds_max_plugin_demo.mp4)
-
-*[Download the demo video](https://github.com/krutikmehtaa/open-source-plugins/raw/main/Autodesk%203ds%20Max/assets/3ds_max_plugin_demo.mp4)*
+### [Autodesk 3ds Max Demo](https://github.com/user-attachments/assets/194c6730-26ab-429b-93ef-651eecbd1c66)
 
 ---
 
