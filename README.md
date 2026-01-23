@@ -72,9 +72,9 @@ open-source-plugins/
 
 ### Autodesk 3ds Max Demo
 
-<video src="https://github.com/krutikmehtaa/open-source-plugins/blob/main/Autodesk%203ds%20Max/3ds_max_plugin_demo.mp4" controls></video>
+![Demo Video](https://github.com/krutikmehtaa/open-source-plugins/raw/main/Autodesk%203ds%20Max/assets/3ds_max_plugin_demo.mp4)
 
-*Alternatively, [download the demo video](https://github.com/krutikmehtaa/open-source-plugins/raw/main/Autodesk%203ds%20Max/3ds_max_plugin_demo.mp4)*
+*[Download the demo video](https://github.com/krutikmehtaa/open-source-plugins/raw/main/Autodesk%203ds%20Max/assets/3ds_max_plugin_demo.mp4)*
 
 ---
 
