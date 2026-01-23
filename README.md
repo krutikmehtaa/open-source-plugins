@@ -70,7 +70,7 @@ open-source-plugins/
 
 ## Demo
 
-### [Autodesk 3ds Max Demo](https://github.com/user-attachments/assets/194c6730-26ab-429b-93ef-651eecbd1c66)
+### [Autodesk 3ds Max](https://github.com/user-attachments/assets/194c6730-26ab-429b-93ef-651eecbd1c66)
 
 ---
 
@@ -158,4 +158,4 @@ This software and associated documentation are proprietary and confidential. Una
 
 ## Credits
 
-Developed and maintained by **Krutik Mehta**.
+Developed and maintained by [**Krutik Mehta**](https://github.com/krutikmehtaa).
