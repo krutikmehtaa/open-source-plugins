@@ -72,7 +72,7 @@ open-source-plugins/
 
 ### Autodesk 3ds Max Demo
 
-[Watch Demo Video](./Recording%202026-01-23%20170856.mp4)
+[Watch Demo Video](./3ds_max_plugin_demo.mp4)
 
 ---
 
