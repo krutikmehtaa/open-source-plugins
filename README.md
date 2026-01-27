@@ -7,7 +7,7 @@
 ### 🗂️ Repository Structure
 
 ```
-open-source-plugins/
+meshr-relief/
 │
 ├── Autodesk 3ds Max/
 │   ├── utility_rectangular_grooves.ms
