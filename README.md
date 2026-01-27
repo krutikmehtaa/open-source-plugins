@@ -1,4 +1,4 @@
-## open-source-plugins
+## meshr-relief
 
 > A cross-platform set of procedural groove-ridge generation tools for **Autodesk 3ds Max** and **SketchUp Pro**, designed to streamline surface detailing and modeling automation for both 3D artists and plugin developers.
 
